@@ -9,10 +9,11 @@
 Note: OPML import/export file incoming shortly
 
 ## Releases
-- **Kubernetes**: https://github.com/kubernetes/kubernetes/releases.atom
-- **VMware vSphere**: https://docs.vmware.com/en/VMware-vSphere/rn_rss.xml
-- **VMware NSX-T**: https://docs.vmware.com/en/VMware-NSX-T-Data-Center/rn_rss.xml
 - **GitLab**: https://about.gitlab.com/all-releases.xml
+- **Kubernetes**: https://github.com/kubernetes/kubernetes/releases.atom
+- **VMware NSX-T**: https://docs.vmware.com/en/VMware-NSX-T-Data-Center/rn_rss.xml
+- **VMware vSphere**: https://docs.vmware.com/en/VMware-vSphere/rn_rss.xml
+- **VSCode**: https://github.com/microsoft/vscode/releases.atom
 
 
 ## Security and Vulnerabilities
