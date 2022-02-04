@@ -1,20 +1,26 @@
 # RSS Feeds
 
 - [RSS Feeds](#rss-feeds)
-  - [Releases](#releases)
+  - [Application Releases](#application-releases)
+  - [Helm Chart Releases](#helm-chart-releases)
   - [Security and Vulnerabilities](#security-and-vulnerabilities)
   - [Security Blogs](#security-blogs)
   - [General Blogs](#general-blogs)
 
 Note: OPML import/export file incoming shortly
 
-## Releases
+## Application Releases
 - **GitLab**: https://about.gitlab.com/all-releases.xml
 - **Kubernetes**: https://github.com/kubernetes/kubernetes/releases.atom
 - **VMware NSX-T**: https://docs.vmware.com/en/VMware-NSX-T-Data-Center/rn_rss.xml
 - **VMware vSphere**: https://docs.vmware.com/en/VMware-vSphere/rn_rss.xml
 - **VSCode**: https://github.com/microsoft/vscode/releases.atom
+- **FreshRSS**: https://github.com/FreshRSS/FreshRSS/releases.atom
 
+## Helm Chart Releases
+- **GitLab**: https://artifacthub.io/api/v1/packages/helm/gitlab/gitlab/feed/rss
+- **RabbitMQ**: https://artifacthub.io/api/v1/packages/helm/bitnami/rabbitmq/feed/rss
+- **FreshRSS**: https://artifacthub.io/api/v1/packages/helm/k8s-at-home/freshrss/feed/rss
 
 ## Security and Vulnerabilities
 - **NIST CVE**: https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml
