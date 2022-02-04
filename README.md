@@ -7,12 +7,11 @@
   - [General Blogs](#general-blogs)
 
 ## Releases
-```
-https://github.com/kubernetes/kubernetes/releases.atom
-https://docs.vmware.com/en/VMware-vSphere/rn_rss.xml
-https://docs.vmware.com/en/VMware-NSX-T-Data-Center/rn_rss.xml
-https://about.gitlab.com/all-releases.xml
-```
+- **Kubernetes**: https://github.com/kubernetes/kubernetes/releases.atom
+- **VMware vSphere**: https://docs.vmware.com/en/VMware-vSphere/rn_rss.xml
+- **VMware NSX-T**: https://docs.vmware.com/en/VMware-NSX-T-Data-Center/rn_rss.xml
+- **GitLab**: https://about.gitlab.com/all-releases.xml
+
 
 ## Security and Vulnerabilities
 ```
